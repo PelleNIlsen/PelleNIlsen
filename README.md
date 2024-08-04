@@ -4,4 +4,4 @@
 ✉️  You can contact me at pellemnilsen@gmail.com
 🧠  My knowledge base is ReactJS, NodeJS, MySQL, MongoDB, PHP, WordPress, and expanding
 🤝  I'm open to collaborating on Web development projects
-⚡  I love to listen songs while chugging energy drinks
+⚡  I love listening to songs while chugging energy drinks
